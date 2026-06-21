@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SMPDominators.aternos.me",
+    "ip": "sleeper.aternos.host",
     "port": 60813,
     "version": "1.21.1"
   },
