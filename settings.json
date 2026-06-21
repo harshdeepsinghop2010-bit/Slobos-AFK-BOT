@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Harshafk",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "leeboi59.aternos.me",
+    "ip": "SMPDominators.aternos.me",
     "port": 60813,
     "version": "1.21.1"
   },
